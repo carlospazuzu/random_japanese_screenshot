@@ -1,0 +1,103 @@
+{
+  "size": 14,
+  "data": [
+    {
+      "image": "240217-140011",
+      "title": "ダーク・プラント",
+      "text": "汚染された土と闇の力で育てられた花。とても凶暴。",
+      "translation": "Flor que foi cultivada à base de força das trevas e solo contaminado. Muito feroz.",
+      "tags": ["forma-passiva"]
+    },
+    {
+      "image": "231220-022351",
+      "title": "ジタン",
+      "text": "もう歩けるようになったのか？",
+      "translation": "Já está conseguindo andar?",
+      "tags": ["ようになる", "forma-potencial"]
+    },
+    {
+      "image": "231117-005053",
+      "title": "女武者",
+      "text": "ああ…早く元の世界に戻りたいわ",
+      "translation": "Ahh...Quero voltar logo pro meu mundo.",
+      "tags": ["forma-たい"]
+    },
+    {
+      "image": "240308-162202",
+      "title": "語り手",
+      "text": "この大きなお城のどこにキングピートはいるのでしょう？",
+      "translation": "Em que lugar deste enorme castelo estará que o Rei Pete?",
+      "tags": ["でしょう"]
+    },
+    {
+      "image": "240115-231411",
+      "title": "クジャ",
+      "text": "ここから全てが誕生したんだよ…",
+      "translation": "A partir daqui, tudo surgiu...",
+      "tags": ["forma-んだ", "particula-よ"]
+    },
+    {
+      "image": "FFIX-Disk3-240108-034000",
+      "title": "会話ボックス",
+      "text": "海の底からお宝が出てきた！",
+      "translation": "Um baú surgiu do fundo do mar!",
+      "tags": ["てくる"]
+    },
+    {
+      "image": "DigimonWorld (Japan)-231118-192909",
+      "title": "カーロス",
+      "text": "げ、強引なやつ…ちょっと待てよ！",
+      "translation": "Nossa, que cara insistente... Espera um pouco!",
+      "tags": ["forma-て", "particula-よ"]
+    },
+    {
+      "image": "Twilight Syndrome - Tansaku Hen (Japan)-240313-022054",
+      "title": "女生徒",
+      "text": "私の学校の女子トイレには花子さんがいます",
+      "translation": "A srta. Hanako está no banheiro feminino da minha escola.",
+      "tags": ["particula-combinada-には", "がいます"]
+    },
+    {
+      "image": "DigimonWorld (Japan)-231115-135824",
+      "title": "アグモン",
+      "text": "「ま、いいよ。おいらアグモン。よろしくな。」",
+      "translation": "Ah, Tudo bem. Eu sou o Agumon, prazer em conhecê-lo.",
+      "tags": ["particula-よ"]
+    },
+    {
+      "image": "FFVII-Disk1-240210-223038",
+      "title": "エアリス",
+      "text": "「…あなたの目。その不思議な輝き……」",
+      "translation": "....Seus olhos. Esse brilho misterioso....",
+      "tags": ["demonstrativo-その"]
+    },
+    {
+      "image": "Mother 2 - Gyiyg no Gyakushuu (Japan)-240227-124135",
+      "title": "男の子",
+      "text": "誰かノックしてるみたい。下品な叩き方だなぁ。",
+      "translation": "Parece que tem alguem batendo na porta. Que jeito grosseiro de bater.",
+      "tags": ["みたい", "forma-している", "なぁ"]
+    },
+    {
+      "image": "Seiken Densetsu - Legend of Mana (Japan, Asia)-240310-002729",
+      "title": "瑠璃",
+      "text": "アイツを無事に連れ帰るまではオマエから離れないぜ。絶対にな！",
+      "translation": "Não vou me separar de você até trazermos de volta em segurança aquele sujeito. De jeito nenhum!",
+      "tags": ["まで", "forma-ない"]
+    },
+    {
+      "image": "Super Mario RPG (Japan)-240224-005313",
+      "title": "ジーノ",
+      "text": "オホッ…オホッ…まぁ、とりあえず勝ったということだ。",
+      "translation": "Cof...cof..Bem, por enquanto isso significa que vencemos.",
+      "tags": ["ということ", "forma-た"]
+    },
+    {
+      "image": "Final Fantasy 1 and 2 Advance (J)-231215-050948",
+      "title": "王",
+      "text": "セーラを助けてもらえたら礼として大陸への橋をかけよう。頼んだぞ、光の戦士たちよ…！",
+      "translation": "Depois que salvarem Sara, como agradecimento, construiremos uma ponte que leva ao continente. Conto com vocês, guerreiros da luz!",
+      "tags": ["forma-volitiva", "forma-てもらう", "として", "particula-ぞ", "forma-たら", "particula-combinadaーへの"]
+    }
+  ]
+}

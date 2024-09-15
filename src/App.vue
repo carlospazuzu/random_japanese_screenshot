@@ -1,26 +1,46 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="container">
+    <div class="centered">
+      <ScreenshotImage :image="randomData.image" />
+    </div>
+    <CalloutPanel
+      :title="randomData.title"
+      :content="randomData.text"
+      :translation="randomData.translation"
+    />
+    <br />
+    <TagList :tags="randomData.tags" />
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import data from "./data/data.json";
+import { ref } from "vue";
+import CalloutPanel from "./components/CalloutPanel.vue";
+import ScreenshotImage from "./components/ScreenshotImage.vue";
+import TagList from "./components/TagList.vue";
 
 export default {
-  name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    CalloutPanel,
+    ScreenshotImage,
+    TagList,
+  },
+  setup() {
+    let randomPosition = parseInt(Math.random() * data.size);
+    let randomData = ref(data.data[randomPosition]);
+
+    return { randomData };
+  },
+};
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body {
+  background-color: #111;
+}
+
+.centered {
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
