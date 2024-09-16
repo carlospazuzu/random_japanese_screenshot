@@ -97,7 +97,14 @@
       "title": "王",
       "text": "セーラを助けてもらえたら礼として大陸への橋をかけよう。頼んだぞ、光の戦士たちよ…！",
       "translation": "Depois que salvarem Sara, como agradecimento, construiremos uma ponte que leva ao continente. Conto com vocês, guerreiros da luz!",
-      "tags": ["forma-volitiva", "forma-てもらう", "として", "particula-ぞ", "forma-たら", "particula-combinadaーへの"]
+      "tags": [
+        "forma-volitiva",
+        "forma-てもらう",
+        "として",
+        "particula-ぞ",
+        "forma-たら",
+        "particula-combinadaーへの"
+      ]
     }
   ]
 }

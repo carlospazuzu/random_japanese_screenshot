@@ -1,7 +1,7 @@
 <template>
   <div>
     <img
-      :src="require(`@/assets/screenshots/${this.image}.png`)"
+      :src="`https://japanesestudies.github.io/randomss_data/screenshots/${this.image}.png`"
       height="400px"
     />
   </div>
